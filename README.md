@@ -1,4 +1,4 @@
-# DIO-Classificador-Nível-de-Herói
+# DIO-Classificador-Nível-de-Herói-Desafio 1
 
 Realização do desafio proposto no Bootcamp Santander 2024 - Criando Jogos com Godot no módulo de "Base em Lógica de Programação para Jogos".
 
@@ -38,5 +38,25 @@ Para resolver esse problema, optei por uma abordagem recursiva controlada por um
 4. Siga as instruções no terminal para inserir o nome e a XP de cada herói. Digite "sair" para encerrar o programa.
 
 Espero que esta explicação ajude a entender a estrutura e o funcionamento do programa. Se você tiver alguma dúvida ou sugestão de melhoria, sinta-se à vontade para contribuir ou entrar em contato!
+
+# DIO-Calculadora-de-Partidas-Rankeadas-Desafio 2
+
+Realização do desafio proposto no Bootcamp Santander 2024 - Criando Jogos com Godot no módulo de "Operadores e Estrutruas de Controle para Jogos".
+
+
+## Calculadora de Partidas Rankeadas
+Este é um programa simples em JavaScript que calcula o saldo de partidas ranqueadas de um jogador e determina o nível dele com base nas faixas de vitórias especificadas.
+
+## Funcionalidades Implementadas
+- Calcula o saldo de vitórias subtraindo as derrotas.
+- Determina o nível do jogador com base nas seguintes faixas de vitórias:
+  - Menos de 10 vitórias: Ferro
+  - De 11 a 20 vitórias: Bronze
+  - De 21 a 50 vitórias: Prata
+  - De 51 a 80 vitórias: Ouro  
+  - De 81 a 90 vitórias: Diamante
+  - De 91 a 100 vitórias: Lendário
+  - Mais de 100 vitórias: Imortal
+- Permite ao usuário inserir múltiplos conjuntos de vitórias e derrotas até que decida sair do programa.
 
 
